@@ -1,0 +1,6 @@
+C:\Users\hongl\Documents\baikiemtraGK\VP102_LTTQ\obj\Debug\net11.0-windows\VP102_LTTQ.csproj.AssemblyReference.cache
+C:\Users\hongl\Documents\baikiemtraGK\VP102_LTTQ\obj\Debug\net11.0-windows\VP102_LTTQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hongl\Documents\baikiemtraGK\VP102_LTTQ\obj\Debug\net11.0-windows\VP102_LTTQ.AssemblyInfoInputs.cache
+C:\Users\hongl\Documents\baikiemtraGK\VP102_LTTQ\obj\Debug\net11.0-windows\VP102_LTTQ.AssemblyInfo.cs
+C:\Users\hongl\Documents\baikiemtraGK\VP102_LTTQ\obj\Debug\net11.0-windows\VP102_LTTQ.csproj.CoreCompileInputs.cache
+C:\Users\hongl\Documents\baikiemtraGK\VP102_LTTQ\obj\Debug\net11.0-windows\VP102_LTTQ.sourcelink.json
